@@ -1,0 +1,9 @@
+Question,Answer
+What is machine learning?,Machine learning is a subset of AI that develops algorithms enabling computers to learn from data and make decisions without explicit programming.
+What is deep learning?,Deep learning is a subset of machine learning that uses neural networks with multiple layers to analyze complex patterns in large datasets.
+What are the three types of machine learning?,"The three types are supervised learning, unsupervised learning, and reinforcement learning."
+What is a neural network composed of?,"A neural network consists of an input layer, one or more hidden layers, and an output layer, with interconnected nodes performing computations."
+What are some applications of machine learning?,"Applications include healthcare (disease diagnosis), finance (credit scoring), and marketing (customer segmentation)."
+What are common uses of deep learning?,"Deep learning is used in computer vision, natural language processing, and autonomous systems like self-driving cars."
+What is overfitting in machine learning?,Overfitting occurs when a model performs well on training data but poorly on unseen data.
+What is explainable AI (XAI)?,"Explainable AI aims to make AI models, especially deep learning models, more transparent and interpretable."
